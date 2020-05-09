@@ -1,0 +1,1 @@
+docker run -d --name=waterfall -p 25565:25565 .
